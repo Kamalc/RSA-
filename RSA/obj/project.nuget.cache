@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjKNY+sK4Lp3cpD/K/jB6dfwQwenyvqOoMOVC6LbRwa4gz4akAXXqYd4D5p8MPC7+PPWOthNm6CKMjbxpf6Nfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kimo\\Downloads\\Compressed\\RSA\\RSA\\RSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kimo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Kimo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Kimo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kimo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
